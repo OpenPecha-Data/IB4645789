@@ -3,5 +3,117 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W28732
   title: གཏེར་ཆོས། བདུད་འཇོམས་གླིང་པ
-  volume: ''
+  volume:
+    a91571090a8f405ea02e908d1bdbcbab:
+      image_group_id: I4616
+      title: ''
+      volume_number: 1
+      total_pages: 652
+    9a79789ee72642d68d1418e51253b2f4:
+      image_group_id: I4617
+      title: ''
+      volume_number: 2
+      total_pages: 550
+    fafb51eb31014673a2c4c488c9501130:
+      image_group_id: I4618
+      title: ''
+      volume_number: 3
+      total_pages: 628
+    4266cf6023f94cfa9d30cce56b025abc:
+      image_group_id: I4619
+      title: ''
+      volume_number: 4
+      total_pages: 500
+    0e75af55b49b49b4823458ae4d67757e:
+      image_group_id: I4620
+      title: ''
+      volume_number: 5
+      total_pages: 480
+    f88ff44bc12e40b99cc656d64f96ffdc:
+      image_group_id: I4621
+      title: ''
+      volume_number: 6
+      total_pages: 602
+    74eb05b260c84df4bde28c148241d3c2:
+      image_group_id: I4622
+      title: ''
+      volume_number: 7
+      total_pages: 642
+    03b19fc5db8d44d88a183f901d0741f8:
+      image_group_id: I4623
+      title: ''
+      volume_number: 8
+      total_pages: 558
+    7bfc2f4a2a2647a1b0b3334561228e4d:
+      image_group_id: I4624
+      title: ''
+      volume_number: 9
+      total_pages: 432
+    153fcdf7cc554d8b95c391ef97aafdfa:
+      image_group_id: I4625
+      title: ''
+      volume_number: 10
+      total_pages: 562
+    907a621c5de24233a292db53320808d3:
+      image_group_id: I4626
+      title: ''
+      volume_number: 11
+      total_pages: 548
+    b8e2e3b5d44f49f38abf5c50a2b9ce37:
+      image_group_id: I4627
+      title: ''
+      volume_number: 12
+      total_pages: 522
+    45283e4c04dd41309ca967c4e77ec48d:
+      image_group_id: I4628
+      title: ''
+      volume_number: 13
+      total_pages: 472
+    a07ba298a0734a2ca4b28e00060fde67:
+      image_group_id: I4629
+      title: ''
+      volume_number: 14
+      total_pages: 476
+    b85ac7079b5042a7bfea622766d51c6a:
+      image_group_id: I4630
+      title: ''
+      volume_number: 15
+      total_pages: 532
+    f5ca30dd91004f46a1c279e7dbd29c6a:
+      image_group_id: I4631
+      title: ''
+      volume_number: 16
+      total_pages: 504
+    b68220e539074e39a935de6c05940ee0:
+      image_group_id: I4632
+      title: ''
+      volume_number: 17
+      total_pages: 630
+    2e17ce4a202f44bd91ac6954f53ed161:
+      image_group_id: I4633
+      title: ''
+      volume_number: 18
+      total_pages: 502
+    5db7aab1763948d9ad26b32c17b1d59e:
+      image_group_id: I4634
+      title: ''
+      volume_number: 19
+      total_pages: 375
+    89ba6c61398248cb9ae18e3d906c1d74:
+      image_group_id: I4635
+      title: ''
+      volume_number: 20
+      total_pages: 750
+    0ef449cc38b149ef91ce2d3b050fb849:
+      image_group_id: I4636
+      title: ''
+      volume_number: 21
+      total_pages: 648
   author: ''
+ebook_metadata:
+  title: གཏེར་ཆོས། བདུད་འཇོམས་གླིང་པ
+  author: ''
+  sku: P000332
+  cover: cover.jpg
+  layers:
+  - pagination
