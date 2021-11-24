@@ -1,5 +1,7 @@
 id: P000332
 initial_creation_type: ocr
+created_at: 13/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W28732
   title: གཏེར་ཆོས། བདུད་འཇོམས་གླིང་པ
@@ -131,10 +133,3 @@ source_metadata:
       volume_number: 21
       total_pages: 648
       base_file: v021.txt
-ebook_metadata:
-  title: གཏེར་ཆོས། བདུད་འཇོམས་གླིང་པ
-  author: ''
-  sku: P000332
-  cover: cover.jpg
-  layers:
-  - pagination
